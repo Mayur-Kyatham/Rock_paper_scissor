@@ -18,7 +18,10 @@ It then determines the winner based on the game rules and displays the result.
 
 The game follows these basic rules:
 
-Rock beats Scissors
-Scissors beats Paper
-Paper beats Rock
-If both players choose the same option, the game results in a tie.
+- Rock beats Scissors
+
+- Scissors beats Paper
+
+- Paper beats Rock
+
+- If both players choose the same option, the game results in a tie.
