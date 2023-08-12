@@ -5,13 +5,20 @@ The program prompts one player to make a selection (Rock, Paper, or Scissors) an
 It then determines the winner based on the game rules and displays the result.
 
 ## How to Play
-Run the Python script using a compatible Python interpreter (e.g., Python 3.x).
+1. Run the Python script using a compatible Python interpreter (e.g., Python 3.x).
 
-Player 1 will be prompted to input their choice by typing "rock," "paper," or "scissors" (case-insensitive).
+2. Player 1 will be prompted to input their choice by typing "rock," "paper," or "scissors" (case-insensitive).
 
-The program will randomly select a choice for Player 2.
+3. The program will randomly select a choice for Player 2.
 
-The result of the game will be displayed on the console.
+4. The result of the game will be displayed on the console.
 
 
 ## Rules
+
+The game follows these basic rules:
+
+Rock beats Scissors
+Scissors beats Paper
+Paper beats Rock
+If both players choose the same option, the game results in a tie.
