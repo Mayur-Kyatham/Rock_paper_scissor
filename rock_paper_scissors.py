@@ -1,4 +1,5 @@
 import random
+
 player1 = input("Select Rock, Paper, or Scissor :").lower()
 player2 = random.choice(["Rock", "Paper", "Scissor"]).lower()
 print("Player 2 selected: ", player2)
